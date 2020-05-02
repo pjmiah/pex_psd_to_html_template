@@ -1,0 +1,13 @@
+Header: 
+1. logo beside text: Photoshop Website template
+2. Nav: About How it Works Services FAQ Contact Search Website
+
+Button Color: 8824cd;
+
+Shape Color: 2e3b4e;
+
+Pink Color: e7526b;
+
+image stretch: 521a66;
+
+footer bg: 2e3b4e;
